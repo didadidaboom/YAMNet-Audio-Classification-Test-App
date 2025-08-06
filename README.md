@@ -19,7 +19,7 @@
 
 ### 🎯 项目简介
 
-这是一个基于 **Flutter** 和 **TensorFlow Lite** 的实时音频分类测试应用，使用 **YAMNet** 模型进行高精度音频识别。应用支持 522 种音频类别的识别，包括语音、动物声音、环境声音、音乐等。
+这是一个基于 **Flutter** 和 **TensorFlow Lite** 的实时音频分类测试应用，使用 **YAMNet** 模型进行高精度音频识别。应用支持 521 种音频类别的识别，包括语音、动物声音、环境声音、音乐等。
 
 ### ✨ 核心特性
 
@@ -133,7 +133,7 @@ This work is licensed under the MIT License. See LICENSE file for details.
 
 ### 🎯 Project Overview
 
-A real-time audio classification test application built with **Flutter** and **TensorFlow Lite**, using the **YAMNet** model for high-precision audio recognition. The app supports identification of 522 audio categories, including speech, animal sounds, environmental sounds, music, and more.
+A real-time audio classification test application built with **Flutter** and **TensorFlow Lite**, using the **YAMNet** model for high-precision audio recognition. The app supports identification of 521 audio categories, including speech, animal sounds, environmental sounds, music, and more.
 
 ### ✨ Key Features
 
