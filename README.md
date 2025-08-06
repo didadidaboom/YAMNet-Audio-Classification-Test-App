@@ -23,7 +23,7 @@
 
 ### ✨ 核心特性
 
-- 🎵 **实时音频分类**: 基于 YAMNet 模型的 522 种音频类别识别
+- 🎵 **实时音频分类**: 基于 YAMNet 模型的 521 种音频类别识别
 - 🔒 **本地处理**: 所有音频数据在本地处理，保护用户隐私
 - 🍎 **Apple-level 权限管理**: 智能权限检测和优雅的用户体验
 - 📱 **现代化 UI**: 简洁美观的用户界面和实时状态反馈
@@ -74,7 +74,7 @@ flutter run
 - **机器学习**: TensorFlow Lite 0.11.0
 - **音频处理**: flutter_sound 9.2.13
 - **权限管理**: permission_handler 11.0.1
-- **模型**: YAMNet (522 类别音频分类)
+- **模型**: YAMNet (521 类别音频分类)
 
 ### 📁 项目结构
 
@@ -137,7 +137,7 @@ A real-time audio classification test application built with **Flutter** and **T
 
 ### ✨ Key Features
 
-- 🎵 **Real-time Audio Classification**: 522 audio category recognition based on YAMNet model
+- 🎵 **Real-time Audio Classification**: 521 audio category recognition based on YAMNet model
 - 🔒 **Local Processing**: All audio data processed locally, protecting user privacy
 - 🍎 **Apple-level Permission Management**: Smart permission detection and elegant UX
 - 📱 **Modern UI**: Clean and beautiful user interface with real-time status feedback
@@ -188,7 +188,7 @@ flutter run
 - **Machine Learning**: TensorFlow Lite 0.11.0
 - **Audio Processing**: flutter_sound 9.2.13
 - **Permission Management**: permission_handler 11.0.1
-- **Model**: YAMNet (522-category audio classification)
+- **Model**: YAMNet (521-category audio classification)
 
 ### 📁 Project Structure
 
