@@ -1,0 +1,35 @@
+name: yamnet_test_app
+description: A Flutter app for testing YAMNet audio classification with TensorFlow Lite.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # TensorFlow Lite
+  tflite_flutter: ^0.11.0
+  
+  # Audio recording
+  flutter_sound: ^9.2.13
+  
+  # Permissions
+  permission_handler: ^11.0.1
+  app_settings: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - model/
+    - assets/model/ 
